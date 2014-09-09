@@ -9,27 +9,45 @@
   padding:1%;
   text-align: center;
   box-shadow: 0 5px 0 rgba(0,0,0,0.1);
-  /*visibility: hidden;
-  overflow: hidden;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  backface-visibility: hidden;
-  -webkit-transform: translate3d(0, 0, 0);
-  -moz-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  transform-style: preserve-3d;*/
 }
 
 .contact{
   text-align: center;
   font-style: bold;
 }
+
 h3{
   text-align: center;
 }
 
 h3 span{
   font-family: 'Lobster', cursive;
+}
+
+.project_one{
+  background-color: #F9CB75;
+  width: 60%;
+  margin:1em auto;
+
+}
+
+a{
+  color: #261F12;
+       }
+
+.project_oneshot{
+  display: inline-block;
+  vertical-align: top;
+  width:45%;
+  margin-left:2em;
+  margin-top:10%;
+
+}
+.project_oneinfo{
+  width:45%;
+  color:#656B60;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 1em;
+
 }
