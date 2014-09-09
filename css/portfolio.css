@@ -54,3 +54,19 @@ a{
   margin-left: 1em;
 
 }
+
+.links{
+  width: 60%;
+  height: 50%;
+  margin:0 auto;
+  margin-top: 2em;
+  background-color: #E1EB99;
+  color: #656B60;
+  padding-top: 1em;
+  text-align: center;
+}
+
+.links li{
+  list-style: none;
+  margin-top: 0.5em;
+}
