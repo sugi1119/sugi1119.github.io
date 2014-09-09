@@ -1,0 +1,21 @@
+.bio{
+  width: 50%;
+  height: 50%;
+  /*position:absolute;*/
+  margin: 0 auto;
+  margin-top: 15%;
+  background-color: #ECCFE0;
+  color: #656B60;
+  /*visibility: hidden;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;*/
+}
+
