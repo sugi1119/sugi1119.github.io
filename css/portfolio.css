@@ -24,11 +24,14 @@ h3 span{
   font-family: 'Lobster', cursive;
 }
 
+h4{
+  text-align: center;
+}
 .project_one{
   background-color: #F9CB75;
   width: 60%;
   margin:1em auto;
-
+  box-shadow: 0 5px 0 rgba(0,0,0,0.1);
 }
 
 a{
@@ -40,7 +43,7 @@ a{
   vertical-align: top;
   width:45%;
   margin-left:2em;
-  margin-top:10%;
+  margin-top:8%;
 
 }
 .project_oneinfo{

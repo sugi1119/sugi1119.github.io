@@ -194,7 +194,7 @@ html, body { height: 100%; }
 		font-size: 1em;
 		margin-top: 0%;
 	}
-	.bio{
+	.bio {
 		margin:0 auto;
 		/*width: 100%;*/
 	}
@@ -216,6 +216,48 @@ html, body { height: 100%; }
 		padding:0%;
 		margin-top:110%;
 	}
+
+	.project_one{
+		width: 100%;
+		height: 70%;
+
+	}
+
+	.project_oneshot{
+		width: 100%;
+		/*border:1px solid blue;*/
+		margin:auto 0;
+	}
+
+	img{
+		margin-left:-20%;
+		width:200%;
+		height: 200%;
+	}
+
+	.project_oneinfo{
+		margin:auto 0;
+		margin-left:-20%;
+	}
+
+	.project_oneinfo h3{
+		width: 200%;
+
+	}
+
+	.project_oneinfo p{
+		width: 200%;
+	}
+
+	.project_oneinfo h4{
+		text-align: left;
+		width: 200%;
+	}
+
+	.off{
+		visibility: collapse;
+	}
+
 }
 
 @media screen and (max-height: 45.9em) {
