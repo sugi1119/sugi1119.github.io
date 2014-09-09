@@ -8,6 +8,7 @@
   color: #656B60;
   padding:1%;
   text-align: center;
+  box-shadow: 0 5px 0 rgba(0,0,0,0.1);
   /*visibility: hidden;
   overflow: hidden;
   -webkit-backface-visibility: hidden;
