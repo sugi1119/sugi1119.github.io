@@ -47,13 +47,13 @@ html, body { height: 100%; }
 /* Text Styles, Colors, Backgrounds */
 
 .pt-page h1 {
-	position: absolute;
+	/*position: absolute;*/
 	font-weight: 300;
 	font-size: 4.4em;
 	line-height: 1;
 	letter-spacing: 6px;
-	margin: 0;
-	top: 5%;
+	margin: 0 auto;
+	margin-top: 5%;
 	width: 100%;
 	text-align: center;
 	text-transform: uppercase;
@@ -186,15 +186,35 @@ html, body { height: 100%; }
 @media screen and (max-width: 47.4375em) {
 	.pt-page h1 {
 		font-size: 3em;
+		margin-top:0;
 	}
 
 	.bio h3{
 		font-size: 1em;
+		margin-top: 0%;
+	}
+	.bio{
+		margin:0 auto;
+		/*width: 100%;*/
+	}
+	.contact{
+		margin-top:-1em;
 	}
 
+	p{
+		margin-top:-1em;
+	}
 
 	.pt-triggers .dl-menuwrapper {
 		display: none;
+	}
+
+	.pt-touch-button{
+		width:60%;
+		height: 20%;
+		padding:0%;
+		margin-top:110%;
+
 	}
 }
 

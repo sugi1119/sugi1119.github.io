@@ -1,11 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
 .bio{
-  width: 50%;
-  height: 50%;
-  /*position:absolute;*/
-  margin: 0 auto;
-  margin-top: 15%;
+  width: 60%;
+  height: auto;
+  margin: 1em auto;
   background-color: #ECCFE0;
   color: #656B60;
+  padding:1%;
+  text-align: center;
   /*visibility: hidden;
   overflow: hidden;
   -webkit-backface-visibility: hidden;
@@ -19,3 +21,14 @@
   transform-style: preserve-3d;*/
 }
 
+.contact{
+  text-align: center;
+  font-style: bold;
+}
+h3{
+  text-align: center;
+}
+
+h3 span{
+  font-family: 'Lobster', cursive;
+}
