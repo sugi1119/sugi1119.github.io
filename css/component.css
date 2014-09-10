@@ -258,6 +258,10 @@ html, body { height: 100%; }
 		visibility: collapse;
 	}
 
+	.links ul{
+		margin-left:-2.5em;
+	}
+
 }
 
 @media screen and (max-height: 45.9em) {
