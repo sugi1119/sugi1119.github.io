@@ -66,6 +66,10 @@ a{
   text-align: center;
 }
 
+.links ul{
+  margin-top: 1em;
+}
+
 .links li{
   list-style: none;
   margin-top: 0.5em;
